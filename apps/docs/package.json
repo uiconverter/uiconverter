@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@repo/ui": "workspace:*",
+    "@uiconverter/ui": "workspace:*",
     "next": "15.0.0-rc.0",
     "nextra": "^2.13.4",
     "nextra-theme-docs": "^2.13.4",

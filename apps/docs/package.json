@@ -6,8 +6,7 @@
     "dev": "next dev --port 3001",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "format": "prettier ./app/docs --write"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "15.0.0-rc.0",

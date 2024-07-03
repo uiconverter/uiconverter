@@ -1,4 +1,4 @@
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
-  extends: ['./react.js', '@sickgyun/eslint-config-ts/noimport'],
+  extends: ['./react.js', '@uiconverter/eslint-config-ts/noimport'],
 };

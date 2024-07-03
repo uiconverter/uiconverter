@@ -1,13 +1,12 @@
-import { useState } from 'react';
-import { useRef } from 'react';
+import { useRef , useState } from 'react';
 
-export const page = () => {
+export const Page = () => {
   const [state, setState] = useState();
-  const ref = useRef();
 
   return (
     <>
-      <>hi</>
+      hi
+      
     </>
   );
 };

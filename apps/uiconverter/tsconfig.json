@@ -1,0 +1,5 @@
+{
+  "extends": "@uiconverter/typescript-config/base.json",
+  "include": [".eslintrc.js", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}

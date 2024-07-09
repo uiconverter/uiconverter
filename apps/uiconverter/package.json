@@ -1,0 +1,21 @@
+{
+  "name": "uiconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "typescript": "^5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "@uiconverter/eslint-config-ts": "workspace:*",
+    "@uiconverter/typescript-config": "workspace:*"
+  }
+}

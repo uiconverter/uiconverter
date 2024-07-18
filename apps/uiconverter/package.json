@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "build": "tsup"
   },
   "keywords": [],
   "author": "",
@@ -14,8 +15,9 @@
     "typescript": "^5"
   },
   "devDependencies": {
-    "ts-node": "^10.9.2",
     "@uiconverter/eslint-config-ts": "workspace:*",
-    "@uiconverter/typescript-config": "workspace:*"
+    "@uiconverter/typescript-config": "workspace:*",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.1.2"
   }
 }

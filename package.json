@@ -14,6 +14,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@changesets/cli": "^2.27.7",
     "@uiconverter/eslint-config-ts": "workspace:*",
     "@uiconverter/typescript-config": "workspace:*",
     "prettier": "^3.2.5",
